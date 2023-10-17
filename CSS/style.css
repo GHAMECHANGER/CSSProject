@@ -5,6 +5,8 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .navbar{
+    text-align: center;
+    text-shadow: 15px;
     list-style: none;
     background: red;
     padding: 0;
