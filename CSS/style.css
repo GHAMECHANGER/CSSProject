@@ -4,6 +4,14 @@ body{
     background-color:aliceblue;
     font-family: 'Roboto', sans-serif;
 }
+.backgroundimage{
+    background-image: url('/Users/user/Documents/GoMyCode/CSSProject/res/jaroslav-devia-xfYiIpHnvhs-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
 .navbar{
     text-align: center;
     text-shadow: 15px;
